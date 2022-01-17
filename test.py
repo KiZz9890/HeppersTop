@@ -46,4 +46,5 @@ for event in longpoll.listen():
          
           else:
              blasthack(id, 'Я вас не понимаю! :( напишите "помощь"')
+
              
